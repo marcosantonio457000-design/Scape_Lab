@@ -6,7 +6,7 @@ import heapq
 
 pygame.init()
 
-# ---------------- CONFIGURACION----------------Marcos Antonio Alfonseca Guerrero/Matricula 23-SISN-2-013
+# ---------------- CONFIGURACION.----------------Marcos Antonio Alfonseca Guerrero/Matricula 23-SISN-2-013
 TAM_CELDA = 40
 COLUMNAS = 20
 FILAS = 15
